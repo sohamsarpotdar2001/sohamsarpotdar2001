@@ -37,10 +37,10 @@ I am passionate about robotics and autonomous systems, with a focus on building 
 |---|---|---|
 | [Hexapod](https://github.com/sohamsarpotdar2001/Hexapod) | A hexapod robot capable of walking in multiple directions and climbing objects | Python, Hexapod |
 | [Autonomous Exploration](https://github.com/sohamsarpotdar2001/Autonomous_Exploration) | Autonomous exploration and mapping of an unknown environment using TurtleBot | Python, ROS, TurtleBot |
+| [ROS Beginner_Tutorials](https://github.com/sohamsarpotdar2001/ros_tutorials_rclcpp) | Beginner-friendly ROS 2 examples and experiments | Cpp, ROS |
 | [Cruise Controller](https://github.com/sohamsarpotdar2001/Cruise_controller) | PID-based cruise controller for achieving a fixed velocity setpoint | Python, PID Control |
 | [Trajectory Tracking](https://github.com/sohamsarpotdar2001/Trajectory_tracking_and_replication) | Tracks a moving object using a depth camera and replicates its trajectory with a drone | Python, Computer Vision, Drones |
 | [Simulation of Drone Swarm](https://github.com/sohamsarpotdar2001/swarm_pso) | Particle Swarm Optimization applied on PX4 Iris drone swarm in a Gazebo environment | Python, ROS |
-| [ROS Beginner Codes](https://github.com/sohamsarpotdar2001/rospy_codes) | Beginner-friendly ROS1 examples and experiments | Python, ROS |
 
 ---
 
