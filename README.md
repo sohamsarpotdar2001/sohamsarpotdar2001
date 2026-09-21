@@ -5,9 +5,9 @@
 ### Robotics Engineer | ROS Developer | Autonomous Systems Enthusiast
 
 <p>
-  <a href="https://github.com/sohamsarpotdar2001">
+  <!-- <a href="https://github.com/sohamsarpotdar2001">
     <img src="https://img.shields.io/github/followers/sohamsarpotdar2001?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers">
-  </a>
+  </a> -->
   <a href="https://github.com/sohamsarpotdar2001?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub projects">
   </a>
