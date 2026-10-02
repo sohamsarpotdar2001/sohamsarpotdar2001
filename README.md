@@ -36,7 +36,6 @@ I am passionate about robotics and autonomous systems, with a focus on building 
 | Project | Description | Technical |
 |---|---|---|
 | [Hexapod](https://github.com/sohamsarpotdar2001/Hexapod) | A hexapod robot capable of walking in multiple directions and climbing objects | Python, Hexapod |
-| [Autonomous Exploration](https://github.com/sohamsarpotdar2001/Autonomous_Exploration) | Autonomous exploration and mapping of an unknown environment using TurtleBot | Python, ROS, TurtleBot |
 | [ROS Beginner_Tutorials](https://github.com/sohamsarpotdar2001/ros_tutorials_rclcpp) | Beginner-friendly ROS 2 examples and experiments | Cpp, ROS |
 | [Cruise Controller](https://github.com/sohamsarpotdar2001/Cruise_controller) | PID-based cruise controller for achieving a fixed velocity setpoint | Python, PID Control |
 | [Mobile_robot](https://github.com/sohamsarpotdar2001/mobile_robot) | Simulating a robot in Gazebo from scratch | Cpp, CAD, ROS |
