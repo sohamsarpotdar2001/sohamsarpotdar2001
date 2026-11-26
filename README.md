@@ -26,7 +26,7 @@ I am passionate about robotics and autonomous systems, with a focus on building 
 
 - 🤖 Working on robotics, autonomous navigation, and control systems
 - 🧭 Exploring ROS, mapping, localization, and motion planning
-- 🚁 Interested in drones, robotic arms, mobile robots, and computer vision
+- 🚁 Interested in drones, mobile robots, and computer vision
 - 🧠 Continuously learning and improving my engineering skills
 
 ---
