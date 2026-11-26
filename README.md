@@ -35,11 +35,12 @@ I am passionate about robotics and autonomous systems, with a focus on building 
 
 | Project | Description | Technical |
 |---|---|---|
+| [Simulation of Drone Swarm](https://github.com/sohamsarpotdar2001/px4-gazebo-swarm-algorithms) | Swarm Algorithms applied on PX4 Iris drone in a Gazebo environment | Cpp, ROS |
 | [Hexapod](https://github.com/sohamsarpotdar2001/Hexapod) | A hexapod robot capable of walking in multiple directions and climbing objects | Python, Hexapod |
-| [ROS Beginner_Tutorials](https://github.com/sohamsarpotdar2001/ros_tutorials_rclcpp) | Beginner-friendly ROS 2 examples and experiments | Cpp, ROS |
-| [Cruise Controller](https://github.com/sohamsarpotdar2001/Cruise_controller) | PID-based cruise controller for achieving a fixed velocity setpoint | Python, PID Control |
 | [Mobile_robot](https://github.com/sohamsarpotdar2001/mobile_robot) | Simulating a robot in Gazebo from scratch | Cpp, CAD, ROS |
-| [Simulation of Drone Swarm](https://github.com/sohamsarpotdar2001/swarm_pso) | Particle Swarm Optimization applied on PX4 Iris drone swarm in a Gazebo environment | Python, ROS |
+| [Cruise Controller](https://github.com/sohamsarpotdar2001/Cruise_controller) | PID-based cruise controller for achieving a fixed velocity setpoint | Python, PID Control |
+| [ROS 2_Examples](https://github.com/sohamsarpotdar2001/ros_tutorials_rclcpp) | Beginner-friendly ROS 2 examples and experiments | Cpp, ROS |
+
 
 ---
 
